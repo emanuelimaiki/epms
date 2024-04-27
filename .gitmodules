@@ -1,3 +1,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/machinam4/epms_documentation.git
+[submodule "server"]
+	path = server
+	url = https://github.com/machinam4/epms_server.git
