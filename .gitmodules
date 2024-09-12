@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/machinam4/epms_server.git
+[submodule "epms_agent_client"]
+	path = epms_agent_client
+	url = https://github.com/emanuelimaiki/epms_agent_client.git
